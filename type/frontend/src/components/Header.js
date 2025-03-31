@@ -30,7 +30,7 @@ function Navbar() {
     <MDBNavbar expand="lg" light bgColor="light">
       <MDBContainer fluid>
         {/* Logo du site */}
-        <MDBNavbarBrand href="/">SportMetrics
+        <MDBNavbarBrand href="/">NameApp
         </MDBNavbarBrand>
 
         {/* Contenu du menu */}
